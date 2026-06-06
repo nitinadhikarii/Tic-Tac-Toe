@@ -62,11 +62,8 @@ python cli/ttt_human_vs_comp.py
 
 ```
 tic-tac-toe/
-│
-├── cli/
-│   ├── ttt_human_v_human.py
-│   └── ttt_human_vs_comp.py
-│
+├── ttt_human_v_human.py
+├── ttt_human_vs_comp.py
 └── README.md
 ```
 
