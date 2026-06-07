@@ -20,10 +20,10 @@ Make sure you have Python 3 installed, then:
 
 ```bash
 # Human vs Human
-python cli/ttt_human_v_human.py
+python ttt_human_v_human.py
 
 # Human vs Computer
-python cli/ttt_human_vs_comp.py
+python ttt_human_vs_comp.py
 ```
 
 ---
