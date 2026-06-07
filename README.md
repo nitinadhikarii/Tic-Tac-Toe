@@ -6,10 +6,10 @@ A command-line Tic Tac Toe game built in Python as my second project, after a CL
 
 ## Versions
 
-### 1. Human vs Human (`cli/ttt_(human_v_human).py`)
+### 1. Human vs Human (`ttt_(human_v_human).py`)
 Two human players take turns on the same machine.
 
-### 2. Human vs Computer (`cli/ttt_(human_vs_comp).py`)
+### 2. Human vs Computer (`ttt_(human_vs_comp).py`)
 Play against a computer opponent that makes moves using the random module. The computer always plays as `o`.
 
 ---
