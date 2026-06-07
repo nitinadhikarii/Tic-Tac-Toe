@@ -81,6 +81,4 @@ tic-tac-toe/
 
 ---
 
-## Upcoming
-
-- GUI version using tkinter
+- GUI version is also up.
